@@ -66,6 +66,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chyroshan066&count_private=true&theme=neon&border_radius=10)](https://git.io/streak-stats)
 
+<a href="https://github.com/chyroshan066github-readme-activity-graph"><img alt="Prayush's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=chyroshan066&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 <br/><br/>
 
 <hr/>
@@ -77,6 +79,8 @@
 </div>
 
 <br/>
+
+
 
 
 
