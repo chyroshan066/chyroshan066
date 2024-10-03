@@ -61,7 +61,7 @@
 
 <div>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=chyroshan066&show_icons=true&theme=neon&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyroshan066&hide=HTML&langs_count=8&layout=compact&theme=neon&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyroshan066&hide=HTML&langs_count=8&layout=compact&theme=neon&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chyroshan066&count_private=true&theme=neon&border_radius=10)](https://git.io/streak-stats)
