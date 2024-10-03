@@ -45,15 +45,15 @@
 <br/>
 <hr/>
 
-<!-- <div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/chyroshan066/chyroshan066/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div> -->
-<!-- 
-<hr/> -->
+
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -64,7 +64,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyroshan066&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div> -->
 
-<!-- <br/><br/>
+<br/><br/>
 
 <hr/>
 
@@ -80,4 +80,4 @@
 
 
 
-![snake gif](https://github.com/chyroshan066/chyroshan066/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/chyroshan066/chyroshan066/blob/output/github-contribution-grid-snake.svg) -->
